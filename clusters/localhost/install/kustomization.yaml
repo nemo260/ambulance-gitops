@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
 - ../../../apps/nemo260-ambulance-ufe
+
+components:
+ - ../../../components/version-developers
