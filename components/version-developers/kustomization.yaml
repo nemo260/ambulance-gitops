@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: nemo260/ambulance-ufe
   newName: nemo260/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main.20240219.1437 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newTag: main.20240226.1356 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: nemo260/ufe-controller
   newName: nemo260/ufe-controller # {"$imagepolicy":  "wac-hospital:ufe-controller:name"}
   newTag: latest # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
