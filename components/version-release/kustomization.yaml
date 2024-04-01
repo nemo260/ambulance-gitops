@@ -22,3 +22,17 @@ replacements:
      options:
          delimiter: ':'
          index: 1
+
+ - targets:
+   - select:
+         group: fe.milung.eu
+         version: v1
+         kind: WebComponent
+         name: nemo261-doc-doc-fe
+     fieldPaths:
+         - spec.hash-suffix
+   source:
+     version: v1
+     kind: Deployment
+     name:  nemo261-doc-doc-fe-deployment
+     fieldPath: spec.template.spec.containers.0.image
