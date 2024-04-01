@@ -4,9 +4,15 @@ images:
 - name: nemo260/ambulance-ufe
   newName: nemo260/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
   newTag: main.20240304.1433 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+
 - name: nemo260/ufe-controller
   newName: nemo260/ufe-controller # {"$imagepolicy":  "wac-hospital:ufe-controller:name"}
   newTag: latest # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
+
 - name: nemo260/ambulance-wl-webapi
   newName: nemo260/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
   newTag: main.20240325.1325 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+
+- name: nemo260/doc-doc-fe
+  newName: nemo260/doc-doc-fe
+  newTag: main.20240325.1325
