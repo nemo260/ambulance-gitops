@@ -11,6 +11,7 @@ commonLabels:
 resources:
 - ../../../apps/nemo260-ambulance-ufe
 - ../../../apps/nemo260-ambulance-webapi
+- ../../../apps/nemo261-doc-doc-fe
 
 components:
  - ../../../components/version-developers
