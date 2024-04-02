@@ -15,4 +15,4 @@ images:
 
 - name: nemo260/doc-doc-fe
   newName: nemo260/doc-doc-fe
-  newTag: latest
+  newTag: v1.0.0
