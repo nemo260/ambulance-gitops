@@ -3,7 +3,7 @@ kind: WebComponent
 metadata:
   name: nemo261-doc-doc-fe
 spec:
-  module-uri: http://nemo261-doc-doc-fe.wac-hospital/build/ambulance-ufe.esm.js
+  module-uri: http://nemo261-doc-doc-fe.wac-hospital/build/nemo261-doc-doc-fe.esm.js
                      # module web komponentu pre tento mikroFE
                      # - umiestnený v namespace wac-hospital
   navigation:
