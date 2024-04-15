@@ -12,6 +12,7 @@ resources:
 - ../../../apps/nemo260-ambulance-ufe
 - ../../../apps/nemo260-ambulance-webapi
 - ../../../apps/nemo261-doc-doc-fe
+- ../../../apps/mongo-express
 
 components:
  - ../../../components/version-developers
