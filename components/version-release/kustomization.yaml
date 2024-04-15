@@ -3,7 +3,10 @@ kind: Component
 images:
 - name: nemo260/ambulance-ufe
   newName: nemo260/ambulance-ufe
-  newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: nemo260/ambulance-wl-webapi
+  newName: nemo260/ambulance-wl-webapi
+  newTag: 1.1.0
 
 replacements:
  - targets:
