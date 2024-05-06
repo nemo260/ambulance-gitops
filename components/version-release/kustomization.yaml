@@ -7,8 +7,8 @@ images:
 - name: nemo260/ambulance-wl-webapi
   newName: nemo260/ambulance-wl-webapi
   newTag: 1.1.0
-- name: nemo261/doc-doc-fe
-  newName: nemo261/doc-doc-fe
+- name: nemo260/doc-doc-fe
+  newName: nemo260/doc-doc-fe
   newTag: 1.0.3
 
 replacements:
